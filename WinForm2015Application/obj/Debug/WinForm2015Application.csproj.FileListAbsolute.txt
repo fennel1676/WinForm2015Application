@@ -1,0 +1,25 @@
+D:\SK\04. TEST\WinForm2015Application\WinForm2015Application\bin\Debug\WinForm2015Application.exe.config
+D:\SK\04. TEST\WinForm2015Application\_Run32_D\WinForm2015Application.exe.config
+D:\SK\04. TEST\WinForm2015Application\_Run32_D\WinForm2015Application.exe
+D:\SK\04. TEST\WinForm2015Application\_Run32_D\WinForm2015Application.pdb
+D:\SK\04. TEST\WinForm2015Application\WinForm2015Application\obj\Debug\WinForm2015Application.csprojResolveAssemblyReference.cache
+D:\SK\04. TEST\WinForm2015Application\WinForm2015Application\obj\Debug\WinForm2015Application.MainFrm.resources
+D:\SK\04. TEST\WinForm2015Application\WinForm2015Application\obj\Debug\WinForm2015Application.Properties.Resources.resources
+D:\SK\04. TEST\WinForm2015Application\WinForm2015Application\obj\Debug\WinForm2015Application.csproj.GenerateResource.Cache
+D:\SK\04. TEST\WinForm2015Application\WinForm2015Application\obj\Debug\WinForm2015Application.exe
+D:\SK\04. TEST\WinForm2015Application\WinForm2015Application\obj\Debug\WinForm2015Application.pdb
+D:\SK\04. TEST\WinForm2015Application\WinForm2015Application\obj\Debug\WinForm2015Application.SubFrm.DockingFrm.resources
+D:\SK\04. TEST\WinForm2015Application\WinForm2015Application\obj\Debug\WinForm2015Application.SubFrm.LogFrm.resources
+D:\SK\04. TEST\WinForm2015Application\WinForm2015Application\obj\Debug\WinForm2015Application.SubFrm.ConfigFrm.resources
+D:\Project\WinForm2015Application\WinForm2015Application\obj\Debug\WinForm2015Application.csprojResolveAssemblyReference.cache
+D:\Project\WinForm2015Application\WinForm2015Application\obj\Debug\WinForm2015Application.MainFrm.resources
+D:\Project\WinForm2015Application\WinForm2015Application\obj\Debug\WinForm2015Application.Properties.Resources.resources
+D:\Project\WinForm2015Application\WinForm2015Application\obj\Debug\WinForm2015Application.SubFrm.ConfigFrm.resources
+D:\Project\WinForm2015Application\WinForm2015Application\obj\Debug\WinForm2015Application.SubFrm.DockingFrm.resources
+D:\Project\WinForm2015Application\WinForm2015Application\obj\Debug\WinForm2015Application.SubFrm.LogFrm.resources
+D:\Project\WinForm2015Application\WinForm2015Application\obj\Debug\WinForm2015Application.csproj.GenerateResource.Cache
+D:\Project\WinForm2015Application\WinForm2015Application\obj\Debug\WinForm2015Application.exe
+D:\Project\WinForm2015Application\WinForm2015Application\obj\Debug\WinForm2015Application.pdb
+D:\Project\WinForm2015Application\_Run32_D\WinForm2015Application.exe.config
+D:\Project\WinForm2015Application\_Run32_D\WinForm2015Application.exe
+D:\Project\WinForm2015Application\_Run32_D\WinForm2015Application.pdb

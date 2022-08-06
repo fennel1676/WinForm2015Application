@@ -1,0 +1,10 @@
+D:\SK\04. TEST\WinForm2015Application\Control\bin\Debug\Control.dll
+D:\SK\04. TEST\WinForm2015Application\Control\bin\Debug\Control.pdb
+D:\SK\04. TEST\WinForm2015Application\Control\obj\Debug\Control.csprojResolveAssemblyReference.cache
+D:\SK\04. TEST\WinForm2015Application\Control\obj\Debug\Control.dll
+D:\SK\04. TEST\WinForm2015Application\Control\obj\Debug\Control.pdb
+D:\Project\WinForm2015Application\Control\bin\Debug\Control.dll
+D:\Project\WinForm2015Application\Control\bin\Debug\Control.pdb
+D:\Project\WinForm2015Application\Control\obj\Debug\Control.csprojResolveAssemblyReference.cache
+D:\Project\WinForm2015Application\Control\obj\Debug\Control.dll
+D:\Project\WinForm2015Application\Control\obj\Debug\Control.pdb
