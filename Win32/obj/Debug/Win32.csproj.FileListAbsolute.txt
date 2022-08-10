@@ -1,0 +1,4 @@
+D:\Project\WinForm2015Application\Win32\bin\Debug\Win32.dll
+D:\Project\WinForm2015Application\Win32\bin\Debug\Win32.pdb
+D:\Project\WinForm2015Application\Win32\obj\Debug\Win32.dll
+D:\Project\WinForm2015Application\Win32\obj\Debug\Win32.pdb
