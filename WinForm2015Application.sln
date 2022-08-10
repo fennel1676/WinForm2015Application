@@ -9,6 +9,8 @@ Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Util", "Util\Util.csproj", 
 EndProject
 Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Control", "Control\Control.csproj", "{E13F7291-0F25-4D47-9F9E-7C3933A8EA60}"
 EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Win32", "Win32\Win32.csproj", "{B65700E4-63FA-4717-961B-7722B8B495F1}"
+EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
 		Debug|Any CPU = Debug|Any CPU
@@ -27,6 +29,10 @@ Global
 		{E13F7291-0F25-4D47-9F9E-7C3933A8EA60}.Debug|Any CPU.Build.0 = Debug|Any CPU
 		{E13F7291-0F25-4D47-9F9E-7C3933A8EA60}.Release|Any CPU.ActiveCfg = Release|Any CPU
 		{E13F7291-0F25-4D47-9F9E-7C3933A8EA60}.Release|Any CPU.Build.0 = Release|Any CPU
+		{B65700E4-63FA-4717-961B-7722B8B495F1}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{B65700E4-63FA-4717-961B-7722B8B495F1}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{B65700E4-63FA-4717-961B-7722B8B495F1}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{B65700E4-63FA-4717-961B-7722B8B495F1}.Release|Any CPU.Build.0 = Release|Any CPU
 	EndGlobalSection
 	GlobalSection(SolutionProperties) = preSolution
 		HideSolutionNode = FALSE
